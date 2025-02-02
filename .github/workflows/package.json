@@ -1,0 +1,11 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "description": "My GitHub Pages site",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
